@@ -1,0 +1,128 @@
+.container2 {
+    font-family: "Hanken Grotesk", sans-serif;
+    margin-top: 150px;
+    margin-left: 450px;
+    justify-content: center;
+    width: 600px;
+    height: 450px;
+    background-color: white;
+    box-shadow: 0 0 12px;
+    border-radius: 30px;
+  }
+  .container3 {
+    font-family: "Hanken Grotesk", sans-serif;
+    margin-top: -39px;
+    width: 300px;
+    height: 450px;
+    background: linear-gradient(rgba(95,63,252,255), rgba(52,46,234,255));
+    border-radius: 30px;
+    justify-content: center;
+    text-align: center;
+  }
+  .container4 {
+    font-family: "Hanken Grotesk", sans-serif;
+    margin-top: -450px;
+    margin-left: 300px;
+    width: 300px;
+    height: 405px;
+    border-radius: 30px;
+    border: none;
+  }
+  /* .summary{
+      margin-left: 315px;
+      display: inline;
+      font-size: 21px;
+      text-decoration: solid;
+      margin-top: 60px;
+  
+  } */
+  .field2 {
+    margin-top: 50px;
+  }
+  .field1 {
+    border: none;
+    border-radius: 75px;
+    width: 110px;
+    height: 110px;
+    margin-left: 83px;
+    background: linear-gradient(rgba(74,36,207,255), rgba(103, 67, 255, 255));
+  }
+  .scored {
+    color: rgba(255, 255, 255, 0.596);
+    margin-left: 50px;
+    width: 200px;
+    text-align: center;
+  }
+  .reaction {
+    color: rgba(234, 141, 144, 255);
+    background-color: rgba(255, 246, 245, 255);
+    height: 30px;
+    margin-left: 20px;
+    width: 220px;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    border: none;
+  }
+  .memory {
+    color: rgba(241, 203, 125, 255);
+    background-color: rgba(255, 251, 242, 255);
+    height: 30px;
+    margin-left: 20px;
+    width: 220px;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    border: none;
+  }
+  .verbal {
+    color: rgba(85, 197, 171, 255);
+    background-color: rgba(242, 251, 250, 255);
+    height: 30px;
+    margin-left: 20px;
+    width: 220px;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    border: none;
+  }
+  .visual {
+    color: rgba(92, 103, 198, 255);
+    background-color: rgba(243, 243, 253, 255);
+    height: 30px;
+    margin-left: 20px;
+    width: 220px;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    border: none;
+  }
+  .btn {
+    width: 255px;
+    margin-left: 20px;
+    height: 50px;
+    margin-top: 15px;
+    border-radius: 25px;
+    color: white;
+    background-color: rgba(48, 59, 89, 255);
+  }
+  .react {
+    display: inline;
+    margin-left: 12px;
+    margin-top: -10px;
+  }
+  .react1{
+    display: inline;
+    color: rgba(56,60,83,255);
+    margin-left: 55px;
+  }
+  .react2{
+    display: inline;
+    color: rgb(56,60,83,255);
+  }
+  .verbal1{
+    display: inline;
+    color: rgba(56,60,83,255);
+    margin-left: 65px;
+  }
+  .verbal2{
+    display: inline;
+    color: rgb(56,60,83,255);
+  }
+  
